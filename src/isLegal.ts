@@ -14,9 +14,9 @@ function isLegal(user: User){
 }
 
 const user : User = {
-    "username": "JohnDoe", 
-    "age" : 25, 
-    "firstname":"John"
+    username: "JohnDoe", 
+    age : 25, 
+    firstname:"John"
 }
 
 console.log(isLegal(user));
